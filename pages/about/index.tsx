@@ -9,7 +9,7 @@ export default function AboutPage() {
     <>
         <h1>About Page</h1>
         <h1>
-          Ir a <Link href={"/about"}>Home</Link>
+          Ir a <Link href={"/"}>Home</Link>
         </h1>
         <p className={styles.description}>
           Get started by editing{' '}
